@@ -240,12 +240,13 @@ a:focus,
   margin-bottom: 60px;
 }
 header .intro-text {
-  padding-top: 350px;
+  padding-top: 240px;
   padding-bottom: 200px;
   text-align: center;
 }
 /* Features Section */
 #features {
+  padding: 50px 0;
   background: #f6f6f6;
 }
 #features i.fa {
@@ -356,7 +357,9 @@ header .intro-text {
 }
 .portfolio-item {
   margin: 1px -15px 0 -14px;
+  height: 255px;
   padding: 0;
+  overflow: hidden;
 }
 .portfolio-item .hover-bg {
   overflow: hidden;
