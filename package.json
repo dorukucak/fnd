@@ -1,6 +1,6 @@
 {
   "name": "landingpage-react-template",
-  "homepage": "https://dorukucak.github.io/fnd",
+  "homepage": "https://dorukucak.github.io/",
   "private": true,
   "dependencies": {
     "@googlemaps/react-wrapper": "^1.1.26",
