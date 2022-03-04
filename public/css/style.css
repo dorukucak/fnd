@@ -357,7 +357,9 @@ header .intro-text {
 }
 .portfolio-item {
   margin: 1px -15px 0 -14px;
+  height: 255px;
   padding: 0;
+  overflow: hidden;
 }
 .portfolio-item .hover-bg {
   overflow: hidden;

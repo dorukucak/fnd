@@ -6,33 +6,33 @@
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Expert engineering solutions",
+      "Solid references",
+      "20 years of service in London area",
+      "100% customer satisfaction"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
+      "Best value for money",
+      "Local enterprise",
       "Exercitation ullamco",
       "Lorem ipsum dolor"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Treatment Plant Project",
+      "largeImage": "img/portfolio/treatment.jpg",
+      "smallImage": "img/portfolio/treatment.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Freshwater Project",
+      "largeImage": "img/portfolio/pipe.jpg",
+      "smallImage": "img/portfolio/pipe.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Drainage Project",
+      "largeImage": "img/portfolio/drainage.jpg",
+      "smallImage": "img/portfolio/drainage.jpg"
     }
   ],
   "Services": [
@@ -107,29 +107,29 @@
     }
   ],
   "Contact": {
-    "address": "25 Street Way, London SW03W2 ",
+    "address": "60a Peggs Way, Basingstoke, Hampshire, United Kingdom, RG24 9FX",
     "phone": "+44 123 456 1234",
     "email": "info@floodanddrainage.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
+      "icon": "fa fa-flask",
+      "title": "Science first",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
+      "title": "Listening to our customer",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
+      "title": "Respect and diversity",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
+      "icon": "fa fa-certificate",
+      "title": "Professionalism",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
   ]
